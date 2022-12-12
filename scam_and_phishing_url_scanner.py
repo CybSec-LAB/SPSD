@@ -11,11 +11,12 @@ _________________________________
 Built by integrating the {IPQUALITYSCORE_api}, for ease of access and better availability. """
 
 
-# required_imports
-#from tkinter import *
-import requests
-import urllib
 import json
+import urllib
+
+# required_imports
+# from tkinter import *
+import requests
 
 """ws = Tk()
 ws.title('SCAM SCANNER')
