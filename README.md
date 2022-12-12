@@ -50,6 +50,7 @@ The script utileses API from www.ipqualityscore.com.
 
 # REQUIREMENTS
 * LINUX OS
+* Windows
 * Python 
 * git (optional, for easy cloning of repo/download)
 
