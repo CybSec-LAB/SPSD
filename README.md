@@ -5,7 +5,7 @@ overall Risk Score is usually the best way to determine domain
 reputation and the overall scoring confidence level. It scans 
 links in real-time to detect suspicious URLs. Accurately identify 
 phishing links, malware URLs and viruses, parked domains, and suspicious URLs with real-time risk scores. Industry leading phishing detection and domain reputation provide better signals for more accurate decision making. 
-
+The script utileses API from www.ipqualityscore.com.
 
     Used for detecting: Scanner Use Cases
 * Phishing URL Detection — Detect malicious URLs used for phishing campaigns and misleading advertising.
@@ -46,3 +46,47 @@ phishing links, malware URLs and viruses, parked domains, and suspicious URLs wi
 	|"adult": false, | "risk_score": 0,|
 
 	|"domain_age": {"human": "3 months ago",|
+
+
+# REQUIREMENTS
+* LINUX OS
+* Python 
+* git (optional, for easy cloning of repo/download)
+
+
+    
+    More updates for easy accessibility and wider device coverage will be rolled out.
+
+    Installation/Usage:
+    from terminal run:
+
+Run the updates 
+    
+    sudo apt-get update
+    sudo apt-get upgrade
+
+Install git
+
+    apt-get install git
+
+install the scanner
+
+
+    git clone https://github.com/CybSec-LAB/Scam_and_phishing_site_detector
+
+Extract the tool
+
+
+    unzip Scam_and_phishing_site_detector
+
+Navigate to the tool directory
+
+    cd /home/user/folder/Scam_and_phishing_site_detector
+
+Run the tool
+
+    python scam_and_phishing_url_scanner.py
+
+
+    Enter/paste the URL to scan
+    Results will be displayed in the terminal
