@@ -63,30 +63,30 @@ The script utileses API from www.ipqualityscore.com.
 
 Run the updates 
     
-    sudo apt-get update
-    sudo apt-get upgrade
+    sudo apt-get update | not needed on windows
+    sudo apt-get upgrade| not needed on windows
 
 Install git
 
-    apt-get install git
+    apt-get install git | windows download: https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi
 
 install the scanner
 
 
-    git clone https://github.com/CybSec-LAB/Scam_and_phishing_site_detector
+    git clone https://github.com/CybSec-LAB/Scam_and_phishing_site_detector | do same for windows of download the files from github: https://github.com/CybSec-LAB/Scam_and_phishing_site_detector
 
 Extract the tool
 
 
-    unzip Scam_and_phishing_site_detector
+    unzip Scam_and_phishing_site_detector | extract using winrar or zip
 
 Navigate to the tool directory
 
-    cd /home/user/folder/Scam_and_phishing_site_detector
+    cd /home/user/folder/Scam_and_phishing_site_detector | window users have to run in terminal or python IDE
 
 Run the tool
 
-    python scam_and_phishing_url_scanner.py
+    python scam_and_phishing_url_scanner.py | window users have to run in terminal or python IDE
 
 
     Enter/paste the URL to scan
