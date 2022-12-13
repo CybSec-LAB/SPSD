@@ -9,11 +9,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c4e89ab-903d-4933-bef4-f4ff3048b1e1" name="Changes" comment="Create README.md">
-      <change afterPath="$PROJECT_DIR$/Linux/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/.idea/Scam_and_phishing_site_detector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/VCRUNTIME140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/_queue.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/certifi/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/img/POC3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/img/malicious_scenerio_POC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/img/safe and secure scenerio_POC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/libcrypto-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/libssl-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/python311.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/scam_and_phishing_url_scanner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/unicodedata.pyd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linux/scam_and_phishing_url_scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/scam_and_phishing_url_scanner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SECURITY.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,20 +83,23 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2ImEfsW1gQJJfqgBTBVzPJMGcKU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SolGod/PycharmProjects/Scam_and_phishing_site_detector/venv&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/SolGod/PycharmProjects/Scam_and_phishing_site_detector/venv&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/SolGod/PycharmProjects/Scam_and_phishing_site_detector/venv",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "two.files.diff.last.used.folder": "C:/Users/SolGod/PycharmProjects/Scam_and_phishing_site_detector/venv"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SolGod\PycharmProjects\Scam_and_phishing_site_detector" />
@@ -266,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670930269655</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Create README.md">
+      <created>1670935634956</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670935634956</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -304,6 +338,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Scanner" />
     <MESSAGE value="Create README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Create README.md" />
