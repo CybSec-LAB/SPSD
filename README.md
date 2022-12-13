@@ -63,34 +63,73 @@ The script utileses API from www.ipqualityscore.com.
 
 # Step 1.
 Run updates.  
-* Linux: sudo apt-get update | sudo apt-get upgrade
-* Windows: not neccessary
+* Linux: 
+
+
+    sudo apt-get update | sudo apt-get upgrade
+* Windows: 
+
+
+    not neccessary
 
 # Step 2.
-    Install git.
-* Linux: apt-get install git 
-* Windows: not neccessary
+Install git.
+* Linux: 
+
+
+    apt-get install git 
+* Windows: 
+
+
+    not neccessary
+
 
 # Step 3.
-    install the scanner.
-* Linux: git clone https://github.com/CybSec-LAB/Scam_and_phishing_site_detector 
-* Windows: download from  https://github.com/CybSec-LAB/Scam_and_phishing_site_detector/archive/refs/heads/master.zip
+install the scanner.
+* Linux: 
+
+
+    $ > git clone https://github.com/CybSec-LAB/Scam_and_phishing_site_detector 
+* Windows: 
+
+
+    download from  https://github.com/CybSec-LAB/Scam_and_phishing_site_detector/archive/refs/heads/master.zip
 
 # Step 4.
-    Extract the zip.
-* Linux: unzip Scam_and_phishing_site_detector 
-* Windows: extract using winrar or zip
+Extract the zip.
+* Linux: 
+
+
+    $ > unzip Scam_and_phishing_site_detector
+* Windows: 
+
+
+    extract using winrar or zip
 
 # Step 5.
-    Navigate to the tool directory.
-* Linux: cd /home/user/folder/Scam_and_phishing_site_detector/Linux
-* Window: Go to the windows directory of the download folder.
+Navigate to the tool directory.
+* Linux: 
+
+
+    $ > cd /home/user/folder/Scam_and_phishing_site_detector/Linux
+* Window: 
+
+
+    Go to the windows directory of the download folder.
 
 # Step 6.
-    Running the tool. 
-* Linux: python scam_and_phishing_url_scanner.py
-* Window: users have to double click on the ".exe" file in the 'windows direcory of the folder' to lunch the program
+Running the tool. 
+* Linux: 
+
+
+    $ > python scam_and_phishing_url_scanner.py
+* Window: 
+
+
+    users have to double click on the ".exe" file in the 'windows direcory of the folder' to lunch the program
 
 # Finally.
-=> Enter/paste the URL to scan
-=> Results will be displayed in the terminal
+
+
+    => Enter/paste the URL to scan
+    => Results will be displayed in the terminal
