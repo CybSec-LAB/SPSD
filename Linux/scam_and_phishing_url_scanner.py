@@ -3,6 +3,8 @@
 import json
 import urllib
 import requests
+import sys
+
 
 
 # simple_detector
@@ -17,3 +19,13 @@ response = requests.get(api_url + encoded_url + """additional_params""")
 # viewing response
 data = requests.get(api_url + encoded_url)
 print(json.dumps(data.json(), indent=4))
+
+
+# MESSAGE
+print(" Hope you got your intel")
+print("IuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuI\n"
+      "I       MALICIOUS URL SCANNER            I\n"
+      "I              V-1.0.0                   I\n"       
+      "IuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuI")
+
+input("  \n     \nPress Any Key to Quit")
