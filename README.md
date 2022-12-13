@@ -51,6 +51,7 @@ The script utileses API from www.ipqualityscore.com.
 # REQUIREMENTS
 * LINUX OS
 * Windows
+* Mobile-Termux (follow the same process for Linux: first install python)
 * Python 
 * git (optional, for easy cloning of repo/download)
 

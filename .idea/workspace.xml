@@ -9,19 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c4e89ab-903d-4933-bef4-f4ff3048b1e1" name="Changes" comment="Create README.md">
-      <change afterPath="$PROJECT_DIR$/Windows/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Windows/scam_and_phishing_url_scanner/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Scam_and_phishing_site_detector.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SECURITY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scam_and_phishing_url_scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/scam_and_phishing_url_scanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670825655945</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Create README.md">
+      <created>1670927973434</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670927973434</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Create README.md">
+      <created>1670927994983</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670927994983</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
