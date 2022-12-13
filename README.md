@@ -52,9 +52,11 @@ The script utileses API from www.ipqualityscore.com.
 * LINUX OS
 * Windows
 * Mobile-Termux (follow the same process for Linux: first install python)
-* Python 
+* Python  
 * git
-# ==> More updates for easy accessibility and wider device coverage will be rolled out: Update every Week.
+
+
+    ==> More updates for easy accessibility and wider device coverage will be rolled out: Update every Week.
     
 
 # Installation/Usage: Linux Terminal or Emulator and Windows PC
