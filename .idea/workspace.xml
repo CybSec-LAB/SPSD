@@ -8,9 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c4e89ab-903d-4933-bef4-f4ff3048b1e1" name="Changes" comment="Create README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c4e89ab-903d-4933-bef4-f4ff3048b1e1" name="Changes" comment="Create README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,15 +58,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SolGod/PycharmProjects/Scam_and_phishing_site_detector&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/SolGod/PycharmProjects/Scam_and_phishing_site_detector/venv",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "two.files.diff.last.used.folder": "C:/Users/SolGod/PycharmProjects/Scam_and_phishing_site_detector/venv"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SolGod\PycharmProjects\Scam_and_phishing_site_detector" />
@@ -199,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670928647018</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Create README.md">
+      <created>1670928970653</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670928970653</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -216,12 +222,19 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/add-license-1" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="c7967da2-90f6-4dd7-ba84-1fd68baab323">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
